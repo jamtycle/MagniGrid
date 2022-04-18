@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MagniGrid.Core", "MagniGridCore\MagniGrid.Core.csproj", "{BA4B3883-655C-4B19-BFAA-5377B6F90FB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagniGrid.WPF", "MagniGrid.WPF\MagniGrid.WPF.csproj", "{4C75F4C8-5C94-4EBE-B382-3B5F2AF01021}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA4B3883-655C-4B19-BFAA-5377B6F90FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA4B3883-655C-4B19-BFAA-5377B6F90FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA4B3883-655C-4B19-BFAA-5377B6F90FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA4B3883-655C-4B19-BFAA-5377B6F90FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C75F4C8-5C94-4EBE-B382-3B5F2AF01021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C75F4C8-5C94-4EBE-B382-3B5F2AF01021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C75F4C8-5C94-4EBE-B382-3B5F2AF01021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C75F4C8-5C94-4EBE-B382-3B5F2AF01021}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {251E0964-C460-46CA-92F2-0B063E70266B}
+	EndGlobalSection
+EndGlobal
